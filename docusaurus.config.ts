@@ -5,12 +5,12 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'ACM Wiki',
+  title: 'ACM UTD Wiki',
   tagline: 'Learn more about the ACM divisions, projects, and core infrastructure',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://acm-wiki.vercel.app',
+  url: 'https://acm-utd-wiki.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -140,7 +140,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} ACM Wiki. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} ACM UTD Wiki. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
