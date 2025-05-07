@@ -7,7 +7,7 @@ tags: [guide, introduction]
 
 ACM Projects is ACM’s semester-long guided program for those new to software development, teaching collaborative tools, new technologies, and core development principles. The program is designed for freshmen and sophomores in any major who want to build a large scale software project with fellow students with the guidance of mentors and industry professionals. Although the project is large scale, there is little coding experience required! As part of ACM Projects, students will leave with better technical, teamwork and networking skills.
 
-![alt text](../../static/img/divisons/projects1.png)
+![alt text](../../static/img/divisons/projects/projects1.png)
 
 ## The Application Process
 Applying for ACM Projects is easy. Applications open at the beginning of every semester and to stay up to date with application openings and deadlines, join the [ACM Discord](https://acmutd.co/discord/) or follow ACM on [Instagram](https://www.instagram.com/acmutd/). If chosen, you’ll be interviewed by directors and project managers. Interviewers look for enthusiasm, initiative, and a spirit of collaboration in participants. While applicants are not expected to know all the answers, they are expected to be willing to work through them and learn something new. More information about interviews and the ACM application process can be found [here](/docs/getting-started/officer-application-process). After all applications have been reviewed and interviews have taken place, acceptance emails are sent out.
@@ -22,17 +22,17 @@ ACM Projects is ten weeks along. Throughout its entirety, there are three worksh
 ## Build Nights
 Lasting for about an hour and a half, Build Nights are a collaborative time for all of the teams to work on their projects together, as well as gain new relevant technological skills through workshops hosted by Project Managers. Towards the end of each Build Night, there are “End of Night” presentations, which allow teams to show off the work they have done so far, as well as discuss the obstacles they’ve come across.
 
-![alt text](../../static/img/divisons/buildnight1.png)
-![alt text](../../static/img/divisons/buildnight2.png)
-![alt text](../../static/img/divisons/buildnight3.png)
+![alt text](../../static/img/divisons/projects/buildnight1.png)
+![alt text](../../static/img/divisons/projects/buildnight2.png)
+![alt text](../../static/img/divisons/projects/buildnight3.png)
 
 ## Projects Presentation Night
 Projects Presentation Night is the night of nights for ACM Projects. It’s the opportunity where students can finally showcase the hard work they’ve been doing for the past few months. Teams take turns presenting their projects to a panel of industry judges and an audience made up of friends, family, mentors, and students. In the past, representatives from companies such as JPMorgan, State Farm, and Goldman Sachs have attended as industry judges.
 
 After the presentations, 1st place, 2nd place, and a people’s choice award will be given with corresponding prizes. Regardless of whether or not a project wins a prize , it is the hard and soft skills gained from Projects that are the most important takeaways for participants. Often these will become great talking points on resumes and during interviews.
 
-![alt text](../../static/img/divisons/presentation1.png)
-![alt text](../../static/img/divisons/presentation2.png)
+![alt text](../../static/img/divisons/projects/presentation1.png)
+![alt text](../../static/img/divisons/projects/presentation2.png)
 
 ## Testimonials
 Student testimonials are the best way to fully understand the essence and benefit of being in ACM Projects. Here are some below!

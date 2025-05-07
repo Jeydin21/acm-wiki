@@ -12,7 +12,7 @@ Have you ever wondered how to get involved within ACM? Are you new to UT Dallas 
 In this blog, we will highlight how to meet and get involved with ACM students, how to find and attend workshops and industry events, and also some tips and tricks to make your time at UT Dallas a success.
 
 ## Becoming a Member
-![alt text](../../static/img/getting-started/acm-membership.png)
+![alt text](../../static/img/getting-started/member/acm-membership.png)
 
 **What are the steps to become a member?** ACM memberships are 100% free. There are two ways to become a member, either event attendance or joining an ACM program. The first step is to register for an ACM account at https://portal.acmutd.co. Next, make sure to attend at least five events during the semester and check in to events to track your attendance in your account. After you’ve attended five events, congratulations, you are now an ACM member! The alternative route is to join a semester-long ACM program, either Projects, Research, TIP (Technical Interview Prep), or becoming a mentor or mentee in the ACM Mentor Program.
 

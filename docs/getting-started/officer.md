@@ -9,7 +9,7 @@ Have you ever wondered how to get involved as an ACM Officer or a participant?
 
 This guide will help you learn more about ACM, the officer application process, and how to stand out.
 
-![alt text](../../static/img/getting-started/application1.png)
+![alt text](../../static/img/getting-started/officer/application1.png)
 
 ## Applications
 ACM Applications are usually open for officers, directors, or participants. As of April 2021, ACM has 3 divisions that have participant applications: ACM Projects, ACM Research, and ACM Education’s TIP (Technical Interview Prep) Program.
@@ -37,7 +37,7 @@ After filling out an application, applicants can expect to receive an email abou
 Be sure to put as much information as you can, relevant to the position, in your application! It helps us get a better understanding of you as an applicant.
 :::
 
-![alt text](../../static/img/getting-started/application2.png)
+![alt text](../../static/img/getting-started/officer/application2.png)
 
 ## Interviewing
 Woohoo! You have moved on to the interview process. During your interview, you can talk about your skills, previous experience, portfolio work, etc.
@@ -47,10 +47,10 @@ But, if you do not have any portfolio work or previous experience, don’t fret.
 What does this mean for you? **It means that regardless of your major or years of college or work experience, you should feel confident in applying to ACM as an officer**. There is one caveat, ACM Development does prefer applicants who have some specialized skills in programming and related areas.
 
 ###### Most Important Skill as reported by ACM Directors
-![alt text](../../static/img/getting-started/application-piechart.png)
+![alt text](../../static/img/getting-started/officer/application-piechart.png)
 
 ###### Ranked Importance of Skill (from left to right)
-![alt text](../../static/img/getting-started/application-barchart.png)
+![alt text](../../static/img/getting-started/officer/application-barchart.png)
 
 In the above graph, the percentage weight of the blocks represents their popularity among the directors. The importance of the skill is ranked from left to right, left (1) being the most important, and right (5) being the least important.
 
@@ -74,7 +74,7 @@ ACM applications can seem like a competitive process since we get hundreds of ap
  :::
 
 Here is a graph of the officer acceptance rates per division for Spring 2021!
-![alt text](../../static/img/getting-started/application-spring-barchart.png)
+![alt text](../../static/img/getting-started/officer/application-spring-barchart.png)
 
 **No matter what the outcome of the process is, whether you get accepted or don’t get accepted this time to be an officer or a participant, know that you are equally amazing as before**. There are hundreds of applications we get every semester, but we cannot accept everyone even if we wanted to!
 
